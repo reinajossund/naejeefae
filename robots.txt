@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uzemohjaig.mpietrek.pl/sitemap.xml
